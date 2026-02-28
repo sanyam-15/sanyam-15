@@ -3,11 +3,11 @@
 ---
 
 ## About Me
-- Computer Science student at **IIIT Bhagalpur (2027)**
-- Strong focus on **Java & Data Structures**
-- Full-stack developer - passionate about building **scalable, clean, and production-ready systems**
-- Continuously learning **backend architectures, system design, and databases**
-- Preparing for **Software Engineer roles**
+- Computer Science student at **IIIT Bhagalpur (2027)**.
+- Strong focus on **Java & Data Structures**.
+- Full-stack developer - passionate about building **scalable, clean, and production-ready systems**.
+- Continuously learning **backend architectures, system design, and databases**.
+- Preparing for **Software Engineer roles**.
 
 ---
 
