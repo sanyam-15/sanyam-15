@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Sanyam+Jain+👋;Pre-final+year+student+at+IIIT+Bhagalpur;Full+Stack+Developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Sanyam+Jain+👋;Final+year+student+at+IIIT+Bhagalpur;Full+Stack+Developer;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 ---
 
